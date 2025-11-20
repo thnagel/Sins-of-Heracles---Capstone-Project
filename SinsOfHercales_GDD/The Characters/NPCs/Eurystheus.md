@@ -1,6 +1,6 @@
-Eurysthée, roi de [Tirynthe](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins), est le principal antagoniste de *[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)*. C'est lui qui commandite les Douze Travaux à [Héraclès](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles) qui constitue la quête principale du jeu.
+Eurystheus, king of [Tiryns](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins), is the main antagonist of *[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)*. He is the one who commissions the Twelve Labours from [Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles), which constitutes the main quest of the game.
 
-## Dans le mythe :
+## In the myth :
 
 
-## Dans *Sins of Heracles* :
+## In *Sins of Heracles* :

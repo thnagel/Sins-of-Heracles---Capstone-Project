@@ -1,21 +1,19 @@
-*Sins of Heracles* est un jeu vidéo de type *Action-RPG* et *Souls Like* dans lequel le joueur se plonge dans le monde de la mythologie grecque en incarnant [Héraclès](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles) (ou Hercule) dans sa quête des Douze Travaux.
+*Sins of Heracles* is an action RPG and Souls-like video game in which players immerse themselves in the world of Greek mythology, playing as [Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles) (or Hercules) on his quest to complete the Twelve Labours.
 
 ## Genres :
 
-Le genre principal de *Sins of Heracles* est le genre *Action-RPG*.
+The main genre of *Sins of Heracles* is *Action-RPG*.
 
-Le second genre de *Sins of Heracles* est le type *Souls Like*.
-Le genre *Souls Like* est caractéristique des jeux demandant au joueur de la persévérance et de la détermination dans des combats contres des boss exigeants et difficiles et dont les attaques sont prédéfinis selon un paterne évolutif. Le joueur doit analyser ce paterne et l'adopter afin de pouvoir vaincre le boss. Le joueur doit évoluer dans différents environnements afin d'améliorer des compétences, des statistiques, un équipement, etc. afin de maximiser ses chances de vaincre le boss et de progresser dans le jeu. Libre à lui de décider quand l'affronter, le laissant décider de l'expérience de combat qu'il souhaite avoir.
-Ce type de jeux est devenu très populaire avec la popularisation notamment de *Dark Souls (FromSoftware)* en 2011 et de ses suites en 2014 et 2016, ainsi que de titres comme *Hollow Knight (Team Cherry)* en 2017 ou *Elden Ring (FromSoftware)* en 2022, qui obtiendra même le titre de jeu de l'année.
-Le *Souls Like* est un genre qui plaît et qui attire de nombreux joueurs désireux d'être mis à l'épreuve et de se dépasser.
+The secondary genre of *Sins of Heracles* is *Souls-like*.
+The *Souls-like* genre is characteristic of games that require the player to persevere and show determination in battles against demanding and difficult bosses whose attacks are predefined according to an evolving pattern. The player must analyse this pattern and adapt to it in order to defeat the boss. The player must progress through different environments in order to improve their skills, statistics, equipment, etc., in order to maximise their chances of defeating the boss and advancing in the game. They are free to decide when to face the boss, allowing them to choose the combat experience they want to have.
+This type of game has become very popular with the rise of *Dark Souls (FromSoftware)* in 2011 and its sequels in 2014 and 2016, as well as titles such as *Hollow Knight (Team Cherry)* in 2017 and *Elden Ring (FromSoftware)* in 2022, which even won Game of the Year.
+Souls-like games are a genre that appeals to and attracts many players who want to be challenged and push themselves to their limits.
 
-## Direction artistique :
+## Artistic direction :
 
-Concernant la direction artistique (DA) visuelle, *Sins of Heracles* se définit par un style semi-réaliste et inspiré de cartoons. Sa principale inspiration est *Immortal Fenyx Rising (Ubisoft)* qui adopte cette esthétique de dessins animés avec une touche de réalisme et sans aller dans le cartoon pur. Ce style s'accompagne de décors colorés et verdoyants qui donnent beaucoup de vie aux environnements dans lesquels le joueur évolue. *Sins of Heracles* se démarque ainsi de nombreux jeux Souls Like avec qui adoptent généralement une atmosphère et des décors très réalistes et plus sombres.
+In terms of visual art direction, *Sins of Heracles* is defined by a semi-realistic, cartoon-inspired style. Its main inspiration is *Immortal Fenyx Rising (Ubisoft)*, which adopts this cartoon aesthetic with a touch of realism, without going overboard into pure cartoon. This style is accompanied by colourful and verdant settings that bring the environments in which the player evolves to life. *Sins of Heracles* thus stands out from many Souls-like games, which generally adopt a very realistic and darker atmosphere and settings.
 
-Pour la DA audio, plusieurs types de musiques et de sons sont adoptées.; les ambiances qui sont dépeintes dans une ville par exemple ne sont pas les mêmes que celles d'une vallée déserte, et cela passe en grande partie par le type de musique choisi. 
-Dans les endroits très vastes comme des [vallées](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley) des musiques d'ambiances légèrement dynamiques seront préconisées afin que le joueur profite d'une ambiance sonore dynamique tout en explorant une zone et en combattant des ennemis.
-Pour une zone de [ville](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins), une musique d'ambiance accompagnées d'instruments donne une atmosphère chaleureuse et des sons de personnes discutant ou récitant des lignes de dialogue permet de rendre la zone plus dynamique et plus vivante.
-Pour un combat de boss, le meilleur choix est le style épique et combiné avec du rock ou un style orchestral. Un combat de boss se doit d'être difficile et le joueur doit ressentir également par la musique que la tâche est rude et le style épique est le plus à même de transmettre cette émotion. 
-
-## Libertés par rapport aux mythes :
+For the audio art direction, several types of music and sounds are used; the atmospheres depicted in a city, for example, are not the same as those in a deserted valley, and this is largely due to the type of music chosen. 
+In very large areas such as [valleys](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley), slightly dynamic ambient music is recommended so that players can enjoy a dynamic soundscape while exploring an area and fighting enemies.
+For a [city](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins) area, ambient music accompanied by instruments creates a warm atmosphere, and the sounds of people talking or reciting lines of dialogue make the area more dynamic and lively.
+For a boss battle, the best choice is an epic style combined with rock or orchestral music. A boss battle should be difficult, and the music should also convey to the player that the task is a tough one. An epic style is best suited to conveying this emotion.

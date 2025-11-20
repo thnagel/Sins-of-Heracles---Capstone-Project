@@ -1,16 +1,12 @@
-Tirynthe est une ancienne cité grecque du [Péloponnèse](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FPeloponnese), en Argolide. 
+Tiryns is an ancient Greek city in the [Peloponnese](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FPeloponnese), in Argolis. 
 
-## Dans le mythe :
+## In the myth :
 
 
-## Dans *Sins of Heracles* :
+## In *Sins of Heracles* :
 
-### Le palais :
+### The palace :
 
-### Le forgeron :
+### The agora :
 
-### Les marchants :
-
-### L'agora :
-
-### Le temple d'Héra :
+### Hera's temple :

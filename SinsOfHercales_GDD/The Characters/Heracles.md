@@ -1,31 +1,31 @@
-Héraclès est le personnage principal de *[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)* . Il est le seul personnage que le joueur contrôlera, dirigera et incarnera tout au long de son aventure.
-## Dans le mythe :
+Heracles is the main character in *[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)* . He is the only character that the player will control, direct, and embody throughout the adventure.
+## In the myth :
 ### Origine :
 
-Héraclès ou Hercule en Rome antique (qui signifie littéralement "la Gloire d'[Héra](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FHera)") est un héros de la mythologie grecque dont les poètes chantent les exploits depuis environ le VIIIème siècle av. J.-C., son exploit le plus célèbre étant les Douze Travaux qui l'ont emmené de [Tirynthe](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins) jusqu'aux Enfers.
+Heracles or Hercules in ancient Rome (literally meaning ‘the Glory of [Hera](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FHera)') is a hero from Greek mythology whose exploits have been sung by poets since around the 8th century BC. His most famous feat is the Twelve Labours, which took him from [Tiryns](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins) to the Underworld.
 
-Héraclès est le fils de [Zeus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FZeus), roi des Dieux et dieu du ciel et de la foudre, et d'Alcmène, épouse d'Amphitryon, fils du roi de Tirynthe, Alcée. Une nuit, Zeus, profitant de l'absence d'Amphitryon, se métamorphosa en ce dernier afin de la séduire. Naquit de cette aventure Héraclès. Zeus ordonne alors à Hermès d'enlever l'enfant, son but étant de lui donner l'immortalité en le faisant téter le sein de son épouse, [Héra](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FHera), déesse du mariage et de la fécondité. Après cet évènement et agacée par les infidélités de Zeus, Héra devient furieuse et éprouvera durant toute la vie d'Héraclès une haine profonde et un désir de vengeance. Elle envoya pendant la nuit, dans le berceau du nourrisson deux serpents pour le tuer. Mais ce dernier, possédant déjà une force surhumaine de par sa paternité, étrangle les serpents. Le destin d'Héraclès sera confirmé par un devin, il accomplira de grands exploits et montera sur le [Mont Olympe](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FMount%20Olympus), la résidence des Dieux.
+Heracles is the son of [Zeus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FZeus), king of the gods and god of the sky and thunder, and Alcmene, wife of Amphitryon, son of Alcaeus, king of Tiryns. One night, Zeus, taking advantage of Amphitryon's absence, transformed himself into Amphitryon in order to seduce her. Heracles was born from this affair. Zeus then ordered Hermes to kidnap the child, his goal being to give him immortality by having him suckle at the breast of his wife, [Hera](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FHera), goddess of marriage and fertility. After this event, annoyed by Zeus' infidelities, Hera became furious and throughout Heracles' life felt a deep hatred and desire for revenge. During the night, she sent two snakes into the infant's cradle to kill him. But Heracles, already possessing superhuman strength from his father, strangled the snakes. Heracles' destiny was confirmed by a seer: he would accomplish great deeds and ascend to [Mount Olympus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FMount%20Olympus), the residence of the gods.
 
-### Les Douze Travaux :
+### The Twelve Labours :
 
-Alors qu'il a une vingtaine d'années, Héraclès épouse [Mégara](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FLore%20NPCs%2FMegara), fille du roi de Thèbes Créon, avec qui il aura plusieurs enfants. Durant une journée en famille, il est soudain pris d'une folie meurtrière puissante. Héra qui n'avait pas oublié l'affront dont elle a été la victime, rend Héraclès fou pour assouvir sa vengeance. Il confond ses enfants et sa femme avec des bêtes sauvages et les assassine violement.
+When he was in his twenties, Heracles married Megara, daughter of Creon, King of Thebes, with whom he had several children. During a family outing, he was suddenly seized by a powerful murderous rage. Hera, who had not forgotten the affront she had suffered, drove Heracles mad in order to satisfy her vengeance. He mistook his children and wife for wild beasts and violently murdered them.
 
-Héraclès, souhaitant expier sa faute, se rend à [Delphes](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FDelphi) pour consulter l'Oracle d'Apollon. Celui-ci lui ordonne de se rendre à [Tirynthe](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins) et de se mettre au service du roi [Eurysthée](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus), une connaissance et un ennemi de se dernier.
-Eurysthée ordonne donc à Héraclès de réaliser douze travaux considérés comme impossibles à accomplir, après quoi il sera pardonné de ses actes. Les voici :
-- Tuer le [lion de Némée](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FNemean%20Lion)
-- Tuer l'[Hydre de Lerne](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FLernean%20Hydra)
-- Ramener vivant le sanglier d'Érymanthe
-- Ramener vivante la biche de Cérynie
-- Nettoyer les écuries d'Augias en un jour
-- Chasser les oiseaux du lac Stymphale
-- Ramener le taureau crétois de Minos
-- Ramener les juments mangeuses d'hommes de Diomède
-- Rapporter la ceinture d'or d'Hyppolyte, reine des Amazones
-- Ramener les bœufs du géant aux trois corps Géryon
-- Rapporter les pommes du jardin des Hespérides
-- Ramener le gardien des Enfers, Cerbère
+Heracles, wishing to atone for his sin, travels to [Delphi](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FDelphi) to consult the Oracle of Apollo. The Oracle orders him to go to [Tiryns](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FTyrins) and enter the service of King [Eurystheus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus), his enemy.
+Eurystheus ordered Hercules to perform twelve labours considered impossible to accomplish, after which he would be forgiven for his actions. These were:
+- Kill the [Nemean lion](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FNemean%20Lion)
+- Slay the [Lernaean Hydra](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FLernean%20Hydra)
+- Bring back the Erymanthian boar alive
+- Bring back the Ceryneian hind alive
+- Clean the Augean stables in a single day
+- Drive away the Stymphalian birds
+- Bring back the Cretan bull of Minos
+- Bring back the man-eating mares of Diomedes
+- Bring back the golden girdle of Hippolyta, queen of the Amazons
+- Bring back the cattle of the three-bodied giant Geryon
+- Bring back the apples from the garden of the Hesperides
+- Bring back Cerberus, guardian of the Underworld
 
-## Dans *Sins of Heracles* :
+## In *Sins of Heracles* :
 
-Dans *Sins of Heracles*, par un souci de jouabilité, Héraclès n'est pas immortel et peut donc être tué par des attaques adverses.
-De plus, il n'a à accomplir (pour la première version du jeu) que les deux premiers Travaux, à savoir tuer le lion de Némée et l'Hydre de Lerne.
+In *Sins of Heracles*, for gameplay reasons, Heracles is not immortal and can therefore be killed by enemy attacks.
+Furthermore, he only has to complete (in the first version of the game) the first two Labours, namely killing the Nemean Lion and the Lernaean Hydra.

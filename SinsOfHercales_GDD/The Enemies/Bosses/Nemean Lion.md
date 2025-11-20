@@ -1,20 +1,23 @@
-Le lion de Némée est le boss de la [vallée de Némée](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley). Il constitue donc le combat final de la première zone de [*Sins of Heracles*](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles) ainsi que le premier Travail d'[Héracles](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles).
+The Nemean Lion is the boss of the [Nemean Valley](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley). It is therefore the final fight of the first zone of _[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)_ as well as the first Labor of [Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles).
 
-## Description :
+## Description:
 
-Le lion de Némée se distingue par sa taille; il est en effet deux fois plus gros qu'un lion de taille standard, environ 1,80 mètre de hauteur et 4,5 mètres de la tête à la queue.
-Il se caractérise également par sa peau extrêmement robuste, presque impénétrable et sa force gigantesque.
-### Dans le mythe :
+The Nemean Lion stands out due to its size; it is indeed twice as large as a standard lion, standing around 1.80 meters tall and measuring 4.5 meters from head to tail.  
+It is also characterized by its extremely tough, almost impenetrable skin and its immense strength.
 
-Dans le mythe des Douze Travaux, Héraclès tente tout d'abord de l'attaquer à l'arc. Cependant, les flèches qu'il tire rebondissent systématiquement sur la peau du lion. Il tente ensuite de l'assommer avec sa massue, ce qui se révèle également inutile. Enfin, il se décide à étrangler le lion de toutes ses forces avec ses mains, ce qui finalement, met un terme au joug du lion de Némée.
-Héraclès se sert ensuite des griffes du lion pour découper sa peau afin de faire une cuirasse et se sert du crâne comme d'un casque.
-### Dans *Sins of Heracles* :
+### In the myth:
 
-Par un souci de jouabilité, le lion de Némée peut être vaincu en lui assignant des attaques classiques et ne nécessite donc pas de l'étrangler, comme dans le mythe.
+In the myth of the Twelve Labors, Heracles first tries to attack it with a bow. However, the arrows he shoots simply bounce off the lion’s skin. He then attempts to knock it out with his club, which also proves useless. Finally, he decides to strangle the lion with all his strength, which ultimately ends the reign of the Nemean Lion.  
+Heracles then uses the lion’s claws to cut its skin and make a cuirass, and uses the skull as a helmet.
 
-## Combat :
-### Phase 1 :
+### In _Sins of Heracles_:
 
-### Phase 2 :
+For gameplay purposes, the Nemean Lion can be defeated with regular attacks and therefore does not need to be strangled like in the myth.
 
-### Phase 3 :
+## Fight:
+
+### Phase 1:
+
+### Phase 2:
+
+### Phase 3:

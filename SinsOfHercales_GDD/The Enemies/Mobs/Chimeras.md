@@ -1,12 +1,11 @@
-La Chimère est une créature mythologique associé au mythe de Bellérophon. Elle est décrite comme étant un monstre a corps est tête de lion, une queue de serpent et une tête de chèvre sur le dos qui peut cracher du feu.
-## Dans le mythe :
+The Chimera is a mythological creature associated with the myth of Bellerophon. It is described as a monster with the body and head of a lion, the tail of a serpent, and the head of a goat on its back that can breathe fire.
+## In the myth:
 
-Dans le mythe de Bellérophon, la Chimère est un monstre redoutable qui doit être éliminé à tout prix. Le héros grec Bellérophon est donc commandité par un roi de Lycie, Iobatès, de tuer la créature.
+In the myth of Bellerophon, the Chimera is a fearsome monster that must be eliminated at all costs. The Greek hero Bellerophon is therefore commissioned by a king of Lycia, Iobates, to kill the creature.
 
-Bellérophon, chevauchant le cheval ailé Pégase, parvient à tuer la Chimère en tirant une flèche de plomb dans la gueule de la bête, qui fond au contact des flammes et lui brûle les entrailles.
+Bellerophon, riding the winged horse Pegasus, manages to kill the Chimera by shooting a lead arrow into the beast's mouth, which melts on contact with the flames and burns its insides.
+## In *Sins of Heracles* :
 
-## Dans *Sins of Heracles* :
-
-Dans [*Sins of Heracles*](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles), la Chimère est un monstre récurrent pouvant être trouvé dans la [vallée de Némée](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley).
+In [*Sins of Heracles*](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles), Chimeras are recurring monsters that can be found in the [Nemean valley](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FMain%20places%2FNemean%20valley).
 
 ### Combat :

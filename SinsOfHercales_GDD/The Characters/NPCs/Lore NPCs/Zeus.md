@@ -1,4 +1,4 @@
-## Dans le mythe :
+## In the myth :
 
 
-## Dans *Sins of Heracles* :
+## In *Sins of Heracles* :
