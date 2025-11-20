@@ -1,0 +1,1 @@
+Dans cette partie seront décrites les fonctionnalités disponibles en combat dans *[Sins of Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles)*.

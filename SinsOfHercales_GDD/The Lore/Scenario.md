@@ -1,0 +1,5 @@
+[Héraclès](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles), fils de Zeus et d'Alcmène, demi-dieu, se rend dans la ville grecque de [Tirynthe](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FTyrins), dans le [Péloponnèse](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FPeloponnese). Celui-ci a été envoyé par l'oracle de [Delphes](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FDelphi) auprès du roi [Eurysthée](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus). La raison ? Héraclès a commis un crime majeur, il a assassiné sa femme et ses enfants. Il doit donc se racheter auprès des dieux et doit donc servir Eurysthée.
+
+Celui-ci lui confie alors douze missions qui son réputées impossibles à accomplir et chaque mission accomplie révélera la suivante, ce sont les Douze Travaux. Seul la réussite de ces douze tâches lui permettront d'être pardonné et il pourra quitter le service d'Eurysthée.
+
+Héraclès doit donc accomplir dans *Sins of Heracles*, les deux premiers travaux, tuer le lion de Némée et vaincre l'Hydre de Lerne. 
