@@ -7,3 +7,6 @@ Tiryns is an ancient Greek city in the [Peloponnese](obsidian://open?vault=SinsO
 In the myth of [Heracles](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FHeracles), the city of Tiryns is the focal point of his quest to complete the Twelve Labours. It was to this city that he was sent by the Oracle of [Delphi](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FDelphi) to serve King [Eurystheus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus).
 
 ## In *Sins of Heracles* :
+
+Dans *Sins of Heracles*, Tirynthe est relativement similaire à ce à quoi ressemblait la ville en réalité. Elle est cependant beaucoup plus grande que l'originelle (plusieurs centaines de mètres).
+L'entrée de la ville se situe au sud, en haut d'un grand escalier permettant de monter en haut de la colline.
