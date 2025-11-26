@@ -6,7 +6,7 @@ Dans le mythe de Persée, l'une des sœurs, Méduse, est combattue par le héros
 
 ## In *Sins of Heracles* :
 
-In [*Sins of Heracles*](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles), Gorgons are recurring monsters that can be found in the [Lerna swamp](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20World%2FMain%20places%2FLerna%20swamp). Les gorgones sont des créatures mi femme, mi serpent avec une chevelure faite de serpents et peuvent ramper au sol rapidement et furtivement.
+In [*Sins of Heracles*](obsidian://open?vault=SinsOfHercales_GDD&file=Sins%20of%20Heracles), Gorgons are recurring monsters that can be found in the [Lerna Marsh](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20World%2FMain%20places%2FLerna%20Marsh). Gorgons are creatures that are half woman, half serpent, with hair made of snakes, and can crawl quickly and stealthily across the ground.
 
 ![[gorgon_image.png]]
 ## Fight :
