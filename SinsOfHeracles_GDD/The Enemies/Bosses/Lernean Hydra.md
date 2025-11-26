@@ -14,13 +14,22 @@ In Pseudo-Apollodorus' version of the myth, Eurystheus rejects the validity of t
 
 ### In *Sins of Heracles* :
 
-In *Sins of Heracles*, the Lernaean Hydra has ‘only’ five heads. Each head is independent and can attack the player independently. The Hydra's heads cannot be cut off during the fight, and it will keep them all until the final phase. It can also spit venom/poison and is extremely fast and agile.
+In *Sins of Heracles*, the Lernaean Hydra has ‘only’ five heads. Each head is independent and can attack the player independently. It can also spit venom/poison and is extremely fast and agile.
 
 ## Fight :
+The hydra will fight by swinging his heads to bite horizontally in a wide arc or vertically and will also spit poison at a distance in a small circular area which will poison the player if he is hit, lowering his health over time, it will also create holes of deeper water in the arena which will slow down the player when he steps through it. The hydra will lose a head and switch phase every time he loses 20% of his hp
 ### Phase 1 :
+During the first phase (between 100% and 80% of it's health) only one head will attack at a time switching between the hydra's different attacks
 
 ### Phase 2 :
+During the second phase (between 80% and 60% of it's health) two head will attack at the same time both of them using the same or different attacks as they cycle through the hydra's different attacks
 
 ### Phase 3 :
+During the third phase (between 60% and 40% of it's health) all three of it's remaining heads will attack at the same time in the same manner as phase 2 and it's health will begin slowly regenerating forcing the player to play more offensively
 
 ### Phase 4 :
+The fourth phase (between 40% and 20% of it's health) will be similar to the second phase as the remaining two heads will attack together but the frequency of attacks will be faster making this phase easier than the third but harder than the second. The regeneration will also stop.
+
+### Phase 5:
+During the last phase the hydra will be exhausted and it's last head will attack less often and the hydra will move slower letting plenty of opportunities for the player to damage and kill it
+

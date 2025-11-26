@@ -15,9 +15,10 @@ Heracles then uses the lion’s claws to cut its skin and make a cuirass, and us
 For gameplay purposes, the Nemean Lion can be defeated with regular attacks and therefore does not need to be strangled like in the myth.
 
 ## Fight:
+During the fight the lion will attack with claw attacks, bites and charges forward into the player followed by a claw attack
 
 ### Phase 1:
+During the first phase the lion will attack less often giving time for the player to counter with his own attacks
 
 ### Phase 2:
-
-### Phase 3:
+Once the lion reaches 50% of it's health it will enter phase 2 and jump in the air to crash into the player in a big area of effect dealing large damage. It will then go bak to it's normal attack pattern but will attack much more frequently forcing the player to time his attacks and dodges well in order to hit the boss without getting hit back.
