@@ -2,25 +2,29 @@ Dans cette partie seront décrites les fonctionnalités disponibles en combat da
 
 # **Combat System**
 
-
-**Inspiration**: Classic Dark Souls, deliberate, stamina-based(?), and punishing. 
+**Inspiration**: Classic Dark Souls, deliberate, stamina-based, and punishing. 
 
 **Perspective**: Third-person camera with lock-on targeting. 
 
 ### **Combat Features**: 
 ---
 
-Light and heavy attacks with stamina management(?). 
+Light and heavy attacks with stamina management:
+- Light attacks are fast, deal low damage and cost less stamina
+- Heavy attaks are slow, deal high damage and cost more stamina
 
-Dodge rolls, parries, and backstabs. 
+Dodge rolls, providing invulnerabilty frames (I frames), requires proper timing and costs stamina. 
 
-Blocking and deflect mechanics depending on equipped gear. 
+Blocking mechanics depending on equipped gear: 
+- The bow is unable to block
+- Swords are capable of blocking and is the most efficient
+- Clubs are capable blocking, less efficient than swords
 
-Limited healing resource, replenished upon death (Gifted ambrosia/ichor). 
+Limited healing resource, replenished upon death (Gifted ambrosia) acting as "estus flasks". 
 
-Death and respawn system at altars ("Shrines of Olympus"). 
+Death and respawn system at "Shrines of Olympus". 
 
-Player Damage Model: The player can die in a few hits if careless, emphasizing patience and timing. 
+Combat Model: The player can die in a few hits if careless, emphasizing patience and timing. 
 
  ### **Gameplay Loop**
 ---
