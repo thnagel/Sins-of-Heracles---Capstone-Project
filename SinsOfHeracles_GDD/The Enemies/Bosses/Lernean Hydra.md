@@ -22,5 +22,3 @@ In *Sins of Heracles*, the Lernaean Hydra has ‘only’ five heads. Each head i
 ### Phase 2 :
 
 ### Phase 3 :
-
-### Phase 4 :

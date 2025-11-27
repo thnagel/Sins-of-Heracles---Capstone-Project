@@ -12,7 +12,7 @@ Heracles is the son of [Zeus](obsidian://open?vault=SinsOfHercales_GDD&file=The%
 
 When he was in his twenties, Heracles married Megara, daughter of Creon, King of Thebes, with whom he had several children. During a family outing, he was suddenly seized by a powerful murderous rage. Hera, who had not forgotten the affront she had suffered, drove Heracles mad in order to satisfy her vengeance. He mistook his children and wife for wild beasts and violently murdered them.
 
-Heracles, wishing to atone for his sin, travels to [Delphi](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FDelphi) to consult the Oracle of Apollo. The Oracle orders him to go to [Tiryns](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20World%2FMain%20places%2FTiryns) and enter the service of King [Eurystheus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus), his enemy.
+Heracles, wishing to atone for his sin, travels to Delphi to consult the Oracle of Apollo. The Oracle orders him to go to [Tiryns](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20World%2FMain%20places%2FTiryns) and enter the service of King [Eurystheus](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Characters%2FNPCs%2FEurystheus), his enemy.
 Eurystheus ordered Hercules to perform twelve labours considered impossible to accomplish, after which he would be forgiven for his actions. These were:
 - Kill the [Nemean lion](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FNemean%20Lion)
 - Slay the [Lernaean Hydra](obsidian://open?vault=SinsOfHercales_GDD&file=The%20Enemies%2FBosses%2FLernean%20Hydra)
