@@ -1,4 +1,4 @@
-Tiryns is an ancient Greek city in the [Peloponnese](obsidian://open?vault=SinsOfHercales_GDD&file=The%20World%2FLore%20places%2FPeloponnese), in Argolis. The city is located on a 30-metre hill and consists mainly of the palace of Tiryns, where the king of the city lives, in the southern part. In the centre was a square with a large hearth, providing access to the palace through a propylaea and to the northern part. In the latter, there was a triangular roofed area that provided protection for the inhabitants in case of danger.
+Tiryns is an ancient Greek city in the Peloponnese, in Argolis. The city is located on a 30-metre hill and consists mainly of the palace of Tiryns, where the king of the city lives, in the southern part. In the centre was a square with a large hearth, providing access to the palace through a propylaea and to the northern part. In the latter, there was a triangular roofed area that provided protection for the inhabitants in case of danger.
 
 ![[tiryns_image.png]]
 *Reproduction of Tiryns around 1250 BC.*
