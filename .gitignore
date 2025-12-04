@@ -76,3 +76,7 @@ DerivedDataCache/*
 
 # Obsidian related files
 .obsidian/
+
+# To avoid pushing every assets from external libraries
+Content/*
+!Content/GameAssets/
