@@ -74,9 +74,6 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Obsidian related files
-*/.obsidian/
-
 # To avoid pushing every assets from external libraries
 Content/*
 !Content/GameAssets/
