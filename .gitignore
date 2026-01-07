@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# To avoid pushing every assets from external libraries
+Content/*
+!Content/GameAssets/
