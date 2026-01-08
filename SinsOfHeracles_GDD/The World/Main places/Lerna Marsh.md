@@ -1,4 +1,4 @@
-Lerna is a coastal area located in the [Peloponnese](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20World%2FLore%20places%2FPeloponnese), in what is now Argos-Mycenae. Around the 3rd century BC, it was a major trading area in the Aegean Sea.
+Lerna is a coastal area located in the Peloponnese, in what is now Argos-Mycenae. Around the 3rd century BC, it was a major trading area in the Aegean Sea.
 The Lerna Marsh is a vast, muddy wetland. It is the second area in [*Sins of Heracles*](obsidian://open?vault=SinsOfHeracles_GDD&file=Sins%20of%20Heracles), and the [Lernaean Hydra](obsidian://open?vault=SinsOfHeracles_GDD&file=The%20Enemies%2FBosses%2FLernean%20Hydra) is the final boss of this area.
 
 ![[lernaswamp.png]]

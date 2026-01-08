@@ -1,10 +1,10 @@
 
 Occupies one hand
 Light attack:
-	Damage: 20
-	Attack speed: 1.2s
+	Damage: 7
+	Attack speed: 0.4s
 	Range: 1
 Heavy attack:
-	Damage: 40
-	Attack speed: 2s
+	Damage: 15
+	Attack speed: 0.75s
 	Range: 1
