@@ -1,0 +1,76 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.509804 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_3.jpg
+
+newmtl _5
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.368627 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_5.jpg
+
+newmtl _7
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.717647 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_7.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.749020 0.749020
+Ks 0.330000 0.330000 0.330000
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.392157 0.317647
+Ks 0.330000 0.330000 0.330000
+d 0.570000
+map_Kd griechisch-orthodoxe-kirche/_2.jpg
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.784314 0.741176
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_1.jpg
+
+newmtl _4
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_4.jpg
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.466667 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_6.jpg
+
+newmtl _
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.533333 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_.jpg
+
+newmtl _1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.784314 0.741176
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_1_1_.jpg
+
+newmtl _Color_C01__1
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.670588 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_Color_C01__1.jpg
+
+newmtl _Color_C01_
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.670588 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd griechisch-orthodoxe-kirche/_Color_C01_.jpg
+
