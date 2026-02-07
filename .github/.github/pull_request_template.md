@@ -10,7 +10,6 @@ Add screenshots or a short video if this PR impacts:
 - Gameplay
 - Animations
 - Visual effects
-If not applicable, briefly explain why.
 -->
 
 ## 🔍 Related Issues
