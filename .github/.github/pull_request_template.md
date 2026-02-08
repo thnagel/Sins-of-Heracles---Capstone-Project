@@ -22,5 +22,5 @@ Closes #<issue-number>
 ## 🧭 PR Checklist
 
 - [ ] Set the appropriate **labels**
-- [ ] Added this PR to the correct **GitHub Project**
+- [ ] Added this PR to the correct **GitHub Project** and set its **status to "In Review"**
 - [ ] Assigned the correct **milestone**
