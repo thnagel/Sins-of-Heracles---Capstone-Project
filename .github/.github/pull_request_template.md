@@ -2,7 +2,7 @@
 
 <!-- What does this pull request do? Why is it needed? -->
 
-## 📸 Screenshots / Vidéo
+## 📸 Screenshots / Video
 
 <!--
 Add screenshots or a short video if this PR impacts:
