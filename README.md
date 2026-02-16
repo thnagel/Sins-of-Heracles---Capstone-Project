@@ -1,4 +1,4 @@
-# Sins of Heracles - Cpastone
+# Sins of Heracles - Capstone
 
 This repository contains the Capstone Project developed at **Epitech Berlin**. The game is a Souls-like action RPG inspired by Greek mythology, following the journey of Heracles through his legendary Twelve Labors.
 
