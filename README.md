@@ -1,7 +1,6 @@
-# Slapageddon -- Sprint 4
+# Sins of Heracles - Capstone
 
-This repository contains the casptone project developed at **Epitech Berlin**, where we were tasked with creating a simple game
-with lots of juice and polish.
+This repository contains the Capstone Project developed at **Epitech Berlin**. The game is a Souls-like action RPG inspired by Greek mythology, following the journey of Heracles through his legendary Twelve Labors.
 
 ## 📦 Required Asset Packs
 
@@ -9,7 +8,7 @@ The project relies on several free asset packs. If you want to open and
 run the project in **UE5** (not just play the build), make sure to
 download the following:
 
--   [52 Card Decks](https://www.fab.com/listings/57e8bc76-6f19-4b5e-bf09-e912eba4c88f)
+-   [Free Melee Weapon Pack (PBR and Stylized)](https://www.fab.com/listings/da6e582c-c12b-4768-b67f-8e248339c071)
 
 ## 🚀 Getting Started
 
