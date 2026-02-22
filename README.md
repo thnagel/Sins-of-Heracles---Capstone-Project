@@ -9,7 +9,7 @@ The project relies on several free asset packs. If you want to open and
 run the project in **UE5** (not just play the build), make sure to
 download the following:
 
--   [52 Card Decks](https://www.fab.com/listings/57e8bc76-6f19-4b5e-bf09-e912eba4c88f)
+-   [Shrine](https://www.fab.com/fr/listings/f1339798-76b8-4202-9e8d-3640ca6db78b)
 
 ## 🚀 Getting Started
 
