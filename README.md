@@ -14,6 +14,9 @@ download the following:
 -   [50 Free Stylized Icons](https://www.fab.com/listings/30e7f11c-1524-42f9-8239-0fbba8611d4d)
 -   [Magic Potion Free game-ready 3D asset](https://www.fab.com/listings/2ccf2dbb-913b-45f4-808a-3336e0ee83c4)
 -   [KCISA -Korean Traditional Smart Materials Vol.2](https://www.fab.com/listings/d3752e58-8ad4-453d-95e2-d0c2e94ff6d8)
+-   [Ancient Pillars (NANITE)](https://www.fab.com/listings/b5a2973a-90d1-40df-b8dd-0efbb2fd67ff)
+-   [Ancient Greek Temple](https://www.fab.com/listings/f1339798-76b8-4202-9e8d-3640ca6db78b)
+-   [Realistic Ruins - Free Sample (archway_pillar)](https://www.fab.com/listings/de667eaa-cced-4a13-b769-178972a6e2fc)
 
 ## 🚀 Getting Started
 
