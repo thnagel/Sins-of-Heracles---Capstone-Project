@@ -13,6 +13,10 @@ download the following:
 -   [Craft Resources Icons](https://www.fab.com/listings/3b8cee16-7a22-4ddc-bd63-9b7650813855)
 -   [50 Free Stylized Icons](https://www.fab.com/listings/30e7f11c-1524-42f9-8239-0fbba8611d4d)
 -   [Magic Potion Free game-ready 3D asset](https://www.fab.com/listings/2ccf2dbb-913b-45f4-808a-3336e0ee83c4)
+-   [Medieval Modular Wall Pack - Kitbash Collection](https://www.fab.com/listings/b1ad8ff7-2bf2-49fc-a685-fa2af0a1d73f)
+-   [KE Statues - Lite](https://www.fab.com/listings/04529331-6b28-453a-a281-38e26e6ef145)
+-   [MAE Beech Forest](https://www.fab.com/listings/e8f4e844-fc25-4f8a-80cd-6e03c6bff2f9)
+-   [Top-Down Shadow Material](https://www.fab.com/listings/44d08bdf-7560-42d4-ac29-cebb8cb9910b)
 
 
 ## 🚀 Getting Started
