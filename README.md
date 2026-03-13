@@ -17,6 +17,12 @@ download the following:
 -   [KCISA -Korean Traditional Smart Materials Vol.2](https://www.fab.com/listings/d3752e58-8ad4-453d-95e2-d0c2e94ff6d8)
 -   [Ancient Pillars (NANITE)](https://www.fab.com/listings/b5a2973a-90d1-40df-b8dd-0efbb2fd67ff)
 -   [Realistic Ruins - Free Sample (archway_pillar)](https://www.fab.com/listings/de667eaa-cced-4a13-b769-178972a6e2fc)
+-   [AFRICAN ANIMALS PACK](https://www.fab.com/listings/9d73ed2e-7917-4afe-9f89-e68420e6b1b7)
+-   [Medieval Modular Wall Pack - Kitbash Collection](https://www.fab.com/listings/b1ad8ff7-2bf2-49fc-a685-fa2af0a1d73f)
+-   [Medieval Castle](https://www.fab.com/listings/94b2c6c1-93a7-4291-9af9-ecc84884e751)
+-   [KE Statues - Lite](https://www.fab.com/listings/04529331-6b28-453a-a281-38e26e6ef145)
+-   [MAE Beech Forest](https://www.fab.com/listings/e8f4e844-fc25-4f8a-80cd-6e03c6bff2f9)
+-   [Top-Down Shadow Material](https://www.fab.com/listings/44d08bdf-7560-42d4-ac29-cebb8cb9910b)
 
 ## 🚀 Getting Started
 
