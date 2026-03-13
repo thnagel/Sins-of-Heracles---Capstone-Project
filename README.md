@@ -16,6 +16,7 @@ download the following:
 -   [KCISA -Korean Traditional Smart Materials Vol.2](https://www.fab.com/listings/d3752e58-8ad4-453d-95e2-d0c2e94ff6d8)
 -   [Ancient Pillars (NANITE)](https://www.fab.com/listings/b5a2973a-90d1-40df-b8dd-0efbb2fd67ff)
 -   [Realistic Ruins - Free Sample (archway_pillar)](https://www.fab.com/listings/de667eaa-cced-4a13-b769-178972a6e2fc)
+-   [AFRICAN ANIMALS PACK](https://www.fab.com/listings/9d73ed2e-7917-4afe-9f89-e68420e6b1b7)
 
 ## 🚀 Getting Started
 
