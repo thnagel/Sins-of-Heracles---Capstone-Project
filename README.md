@@ -22,6 +22,7 @@ download the following:
 -   [KE Statues - Lite](https://www.fab.com/listings/04529331-6b28-453a-a281-38e26e6ef145)
 -   [MAE Beech Forest](https://www.fab.com/listings/e8f4e844-fc25-4f8a-80cd-6e03c6bff2f9)
 -   [Top-Down Shadow Material](https://www.fab.com/listings/44d08bdf-7560-42d4-ac29-cebb8cb9910b)
+-   [Niagara loot effects](https://www.fab.com/listings/4b286683-759a-419d-b077-d3c6a3b71ef5)
 
 ## 🚀 Getting Started
 
