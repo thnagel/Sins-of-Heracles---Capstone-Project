@@ -25,19 +25,6 @@ download the following:
 - [Niagara Footstep VFX](https://www.fab.com/listings/49dc53b7-0a5f-4905-8951-e42aaf1135e4)
 - [Metal Material Pack PBR](https://www.fab.com/listings/ec4b0dc8-37f4-41b9-913b-8cc84b4664bf)
 
--   [Greek Pillars](https://www.fab.com/listings/fc8fbbc4-336e-4ae7-96f0-cee1d606de78)
--   [Greek Temple](https://sketchfab.com/3d-models/greek-temple-ebebc093bfe0483b8e8604d41a988c6f)
--   [Blacksmith Free Set🔨](https://www.fab.com/listings/f66622d7-04e3-472d-9e9b-8c6416bd6b5b)
--   [Mossy Stone Wall](https://www.fab.com/listings/c6fe222d-a4b8-4245-8059-69b698cb48ec)
--   [Medieval Fountain Empty](http://fab.com/listings/18418ed8-e759-4408-bb36-3ff628d1fdd2)
--   [Medieval Combat Dummy](https://www.fab.com/listings/d9d89431-ff36-454a-8c73-de5b5f8b03df)
--   [Wooden Target](https://www.fab.com/listings/de727703-39ce-4407-ba9b-19bee71ba467)
--   [Settlers IV - Tower](https://www.fab.com/listings/bf4d831c-430a-4966-984c-5dea11017eac)
--   [Street Lighting Torch](https://www.fab.com/listings/93779b57-7ffa-4e60-9a69-254d8e952668)
--   [Wooden Cart](https://www.fab.com/listings/22436f50-9471-440f-b50c-f66daf2ed020)
--   [Wooden Chest](https://www.fab.com/listings/5f5205e7-01f3-484a-8004-1019a7042a35)
--   [Military Trenches Structure Stairs Wood](https://www.fab.com/listings/ed7558f3-a38e-4a48-961c-500c77e5f512)
-
 ## 🚀 Getting Started
 
 - Clone the repository.
