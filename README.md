@@ -24,6 +24,7 @@ download the following:
 - [Top-Down Shadow Material](https://www.fab.com/listings/44d08bdf-7560-42d4-ac29-cebb8cb9910b)
 - [Niagara Footstep VFX](https://www.fab.com/listings/49dc53b7-0a5f-4905-8951-e42aaf1135e4)
 - [Metal Material Pack PBR](https://www.fab.com/listings/ec4b0dc8-37f4-41b9-913b-8cc84b4664bf)
+- [KE Statues - Lite](https://www.fab.com/listings/04529331-6b28-453a-a281-38e26e6ef145)
 
 ## 🚀 Getting Started
 
