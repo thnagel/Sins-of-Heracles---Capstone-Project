@@ -23,6 +23,8 @@ download the following:
 - [MAE Beech Forest](https://www.fab.com/listings/e8f4e844-fc25-4f8a-80cd-6e03c6bff2f9)
 - [Top-Down Shadow Material](https://www.fab.com/listings/44d08bdf-7560-42d4-ac29-cebb8cb9910b)
 - [Niagara Footstep VFX](https://www.fab.com/listings/49dc53b7-0a5f-4905-8951-e42aaf1135e4)
+- [Metal Material Pack PBR](https://www.fab.com/listings/ec4b0dc8-37f4-41b9-913b-8cc84b4664bf)
+- [Quadruped Fantasy Creatures](https://www.fab.com/listings/52d686b6-1180-4f26-901f-ce3c69a14767)
 
 ## 🚀 Getting Started
 
