@@ -26,7 +26,7 @@ download the following:
 - [Metal Material Pack PBR](https://www.fab.com/listings/ec4b0dc8-37f4-41b9-913b-8cc84b4664bf)
 - [Quadruped Fantasy Creatures](https://www.fab.com/listings/52d686b6-1180-4f26-901f-ce3c69a14767)
 - [Basic VFX Pack](https://www.fab.com/listings/75698e52-edfc-4f76-a86c-b4f26fcf5a29)
-
+- [Stylized Fantasy Characters](https://www.fab.com/listings/4d1e4ac0-a02b-4a6b-8562-db759bc395c7)
 
 ## 🚀 Getting Started
 
